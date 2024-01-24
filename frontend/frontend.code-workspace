@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "frontend",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../../stripe_pay_reactjs_nodejs/frontend/src"
+		}
+	],
+	"settings": {}
+}
